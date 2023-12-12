@@ -1,0 +1,31 @@
+@media (max-width: 991px) {
+  /* 2 Navbar */
+
+  .navbar {
+    height: auto;
+  }
+
+  .header_wrapper .navbar-collapse {
+    margin-top: -0.125rem;
+  }
+
+  .header_wrapper .menu-navbar-nav {
+    text-align: center;
+    background-color: #fff;
+    padding-bottom: 0.9375rem;
+  }
+
+  .header_wrapper .nav-item .nav-link {
+    margin-top: 0.9375rem;
+  }
+  .top-right-img {
+    margin-bottom: 2rem;
+  }
+}
+
+@media (max-width: 767px) {
+  /* custom css */
+  section {
+    padding: 5rem 0;
+  }
+}
